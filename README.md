@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 3. NLP
 
 📫 How to reach me
-- tanvi.shinde46@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/tanvi--shinde/)
 
 ⚡ Fun Fact
 - Need my coffee
