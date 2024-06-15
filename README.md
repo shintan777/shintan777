@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 ### Hello World 👋
 ✨ Interested to know more about
-1. Cloud Platforms
-2. Reinforcement Learning
-3. NLP
+1. Automation
+2. Big Data
+
+🌱 I’m currently learning 
+1. LLMs
+
+😄 Pronouns: She/Her
 
 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/tanvi--shinde/)
 
 ⚡ Fun Fact
-- Need my coffee
+- Love my coffee and music playlists
