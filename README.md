@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello World 👋
-✨ Interested to know more about
-1. Automation
-2. Big Data
 
 🌱 I’m currently learning 
-1. LLMs
+1. LLMs, NLP and other domains in AI
+2. Big Data technologies like Distributed Computing, Spark etc
 
 😄 Pronouns: She/Her
 
